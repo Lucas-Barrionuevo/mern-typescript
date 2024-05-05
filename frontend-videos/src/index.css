@@ -1,0 +1,8 @@
+.toast-container {
+    z-index: 9999; /* Asegura que el ToastContainer esté sobre otros elementos */
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    width: 300px; /* Ancho personalizado según tus preferencias */
+  }
+  
